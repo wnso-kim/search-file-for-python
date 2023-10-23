@@ -1,0 +1,3 @@
+([('main',
+   '/Users/argo/workspace/SEARCH_FILE_PROJECT/src/search_src/dist/main',
+   'EXECUTABLE')],)

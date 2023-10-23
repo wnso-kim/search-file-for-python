@@ -1,0 +1,7 @@
+# ignore folder
+searchfilevenv/
+
+# ignore .DS_Store
+.DS_Store
+/Users/argo/workspace/SEARCH_FILE_PROJECT/src/search_src/build/
+/Users/argo/workspace/SEARCH_FILE_PROJECT/src/search_src/dist/
