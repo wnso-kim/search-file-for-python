@@ -1,29 +1,29 @@
 # search-file-for-python
 파일 탐색기 제작(파이썬, Pyqt기반)
 
-![메인프로그램](https://prod-files-secure.s3.us-west-2.amazonaws.com/d81e357d-8778-41de-9cce-e9bca063bbfc/3d1ed9c6-cc83-4c34-9591-a574dd11ae01/Untitled.png)
+![Untitled 1](https://github.com/wnso-kim/search-file-for-python/assets/109727039/a440bee9-2773-4ee9-a4ae-0caf22c4319b)
 
 ### 2. 검색 기능
 
 1. 파일, 확장자, 태그, 내용으로 검색할 수 있습니다. 
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d81e357d-8778-41de-9cce-e9bca063bbfc/216de157-68c8-478f-a451-fde5c04b5cb4/Untitled.png)
+    ![Untitled 2](https://github.com/wnso-kim/search-file-for-python/assets/109727039/8620f53b-1f89-4d8b-ba53-9e1f399a5f28)
     
 2. 검색어를 입력하고, 경로를 지정하여 파일 또는 폴더를 검색할 수 있습니다.
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d81e357d-8778-41de-9cce-e9bca063bbfc/2958db07-72bf-465c-a250-2fc806fd0c4b/Untitled.png)
+    ![Untitled 3](https://github.com/wnso-kim/search-file-for-python/assets/109727039/6510d720-5c00-4d7b-a683-beb1573ea4ab)
     
 3. 검색 결과에 따라 파일 또는 폴더 목록이 출력됩니다.
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d81e357d-8778-41de-9cce-e9bca063bbfc/979f2cf3-f155-483a-862c-156f1203a071/Untitled.png)
+    ![Untitled 4](https://github.com/wnso-kim/search-file-for-python/assets/109727039/8342c7f4-5fc7-4c90-8ec7-eb3366955663)
     
 4. 목록에서 파일 또는 폴더를 선택하면 세부 정보가 출력됩니다.
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d81e357d-8778-41de-9cce-e9bca063bbfc/23a7e10f-f8b5-4406-84fa-d7402e43387c/Untitled.png)
+    ![Untitled 5](https://github.com/wnso-kim/search-file-for-python/assets/109727039/09df6964-ed85-4b01-b2c2-cd1bc9ad2963)
     
 5. 세부 정보에서 파일에 대한 태그를 저장할 수 있으며, 추후 태그명으로 파일을 검색할 수 있습니다.
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d81e357d-8778-41de-9cce-e9bca063bbfc/f00587a8-d2d3-48c1-8fc7-3af5b6721c80/Untitled.png)
+    ![Untitled 6](https://github.com/wnso-kim/search-file-for-python/assets/109727039/e142376f-cb9b-42ef-9c6f-88c1a1e59493)
     
 
 ### 3. 파일 생성 감지 기능
@@ -34,9 +34,9 @@
 2. 경로 기능이 활성화 된 경우 ‘파일 생성 감지중’ 이라는 문구가 출력됩니다.
     1. 해당 버튼 클릭시 파일 생성 감지 기능이 중단됩니다.
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d81e357d-8778-41de-9cce-e9bca063bbfc/fa4d3d44-8e04-4184-8746-8c740eca6d99/Untitled.png)
+    ![Untitled 7](https://github.com/wnso-kim/search-file-for-python/assets/109727039/c010b1ce-6275-405c-a8e1-6f35fca93136)
 3. 새로운 파일이 생성된 경우 아래와 같이 알림창이 출력되며, 태그를 저장할 수 있습니다.
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d81e357d-8778-41de-9cce-e9bca063bbfc/0dcf7f63-d6c3-4736-b82a-d63bc53ebd04/Untitled.png)
+    ![Untitled 8](https://github.com/wnso-kim/search-file-for-python/assets/109727039/69440d85-f82f-4acb-8eab-5249fd835c04)
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d81e357d-8778-41de-9cce-e9bca063bbfc/8c3325bb-10e5-4a46-92cd-4fa51b9fb6c6/Untitled.png)
+    ![Untitled 9](https://github.com/wnso-kim/search-file-for-python/assets/109727039/2feec503-ca46-4540-86df-0e4c48c00810)
